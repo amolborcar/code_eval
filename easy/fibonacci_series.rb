@@ -12,4 +12,4 @@ def fib_evaluation(num)
   return fib[-1]
 end
 
-fibonacci_series
+p fibonacci_series

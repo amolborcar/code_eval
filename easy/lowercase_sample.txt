@@ -1,0 +1,4 @@
+HELLO
+THIS IS AMOL
+this is lowercase
+ThiS Is MiXEd
